@@ -9,6 +9,6 @@
 		"terminal.integrated.fontFamily": "Fira Code",
 		"terminal.integrated.cursorStyle": "line",
 		"editor.formatOnSave": true,
-		"workbench.colorTheme": "Scrimba Dark Theme Editing"
+		"workbench.colorTheme": "GitHub Dark Default"
 	}
 }
