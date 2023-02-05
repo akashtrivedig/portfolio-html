@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Fira Code",
+		"terminal.integrated.fontFamily": "Fira Code",
+		"terminal.integrated.cursorStyle": "line",
+		"editor.formatOnSave": true,
+		"workbench.colorTheme": "Scrimba Dark Theme Editing"
+	}
+}
